@@ -1,1 +1,1 @@
-# QA-ASS
+# This repo contains different test cases.
